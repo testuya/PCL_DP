@@ -1040,6 +1040,7 @@ void PCL::processing_with_2D(char *f_name){
 	boost::shared_ptr<pcl::visualization::PCLVisualizer> viewer(new pcl::visualization::PCLVisualizer("3D Viewer"));
 	viewer->setBackgroundColor(255, 255, 255);
 
+
 	//ÉÅÉbÉVÉÖ
 	/*normal_calculation(cloud, normals);
 	create_mesh(cloud, normals, cloud_normals, mesh);

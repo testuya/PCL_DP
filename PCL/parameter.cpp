@@ -32,7 +32,7 @@ Parameter::Parameter(){
 	crrespond_count = 5;*/
 
 	/*PCL.cpp*/
-	ply_file = "merged/625Merged_d11_fillhole.ply";
+	ply_file = "merged/625Merged_d12_fillhole.ply";
 	smooth = 0.08;
 	theta[0] = 0.3;
 	theta[1] = 0.7;
